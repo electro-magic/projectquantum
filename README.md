@@ -31,7 +31,7 @@ This wallet is reserved for investment by fin-tech companies or companies in the
 This wallet is locked to 3 company directors and held on a Genosis Safe (external provider).
 
 Burn / Airdrop Wallet : 120 Billion (12%) – This wallet will be used to do deflationary burns of the coin when we hit milestones or to reward early adopters of the token with AirDrops, boosting their holdings of the token. 
-These tokens will be unlocked over 12 months, with 1% of total supply being burned, and airdropped to the holders every month for the first year od the coin.
+These tokens will be unlocked over 12 months, with 1% of total supply being burned, and airdropped to the holders every month for the first year of the coin.
 
 
 
